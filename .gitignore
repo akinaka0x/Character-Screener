@@ -1,5 +1,4 @@
 *.npz
 *.png
-/.ipynb_checkpoints/
 /kakezan/.ipynb_checkpoints/
 /warizan/.ipynb_checkpoints
